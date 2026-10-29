@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-export const BASE_URL = import.meta.env.VITE_API_BASE_URL || "http://localhost:8080/api"
+export const BASE_URL = import.meta.env.VITE_API_BASE_URL || "https://api.jomplay.fun"
 
 export const API_ORIGIN = new URL(BASE_URL, window.location.href).origin
 
