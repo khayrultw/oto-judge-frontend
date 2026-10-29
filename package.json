@@ -2,6 +2,7 @@
   "name": "contest-dashboard",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "dependencies": {
     "@codemirror/lang-cpp": "^6.0.3",
     "@codemirror/lang-java": "^6.0.2",
